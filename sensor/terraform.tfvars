@@ -1,0 +1,14 @@
+region                      = "us-east-1"
+aws_profile                 = ""
+base_name                   = ""
+brain_ip                    = "10.0.0.31"
+sensor_instance_type        = "r5.large"
+registration_token          = ""
+ssh_key                     = ""
+management_ip               = "" # Leave empty for DHCP or specify a value.
+management_security_group   = "" # Specify a security group ID or leave null to create a new one.
+management_subnet           = ""
+tenancy                     = "default"
+traffic_ip                  = "" # Leave empty for DHCP or specify a value.
+traffic_security_group      = "" # Specify a security group ID or leave null to create a new one.
+traffic_subnet              = ""
