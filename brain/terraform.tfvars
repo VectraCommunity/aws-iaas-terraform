@@ -1,0 +1,11 @@
+region                = "us-east-1"
+aws_profile           = ""
+base_name             = ""
+brain_backup_token    = "" 
+brain_instance_type   = "r5d.2xlarge"
+provision_token       = ""
+ssh_key               = ""
+management_ip         = "" # Leave empty for DHCP or set a specific IP.
+management_subnet     = ""
+tenancy               = "default"
+brain_ami             = ""
